@@ -1,3 +1,4 @@
+#codigo para visualizar la proyeccion de una imagen mediante la matriz de camara P
 from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
 import numpy as np
